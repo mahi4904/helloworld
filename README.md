@@ -1,2 +1,5 @@
-# helloworld
-This is hello world
+#include<studio,h>
+void main()
+{
+ printf("HELLO WORLD...!!!);
+ }
